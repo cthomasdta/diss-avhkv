@@ -1,0 +1,148 @@
+.content { 
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
+
+div.page {
+  border: 1px dotted gray;
+  margin-top: .5em;
+  margin-bottom: .5em;
+  padding: .1em;
+}
+
+div.pb { 
+  font-weight: bold;
+  background: #e8e8e8;
+  padding: .1em;
+/*
+  border-top: 1px solid gray;
+  border-left: 1px solid grey;
+  background: #e0e0e0;
+  margin-top: 1em;
+  margin-bottom: .5em;
+*/
+}
+
+p {
+  margin-top: .5em;
+  margin-bottom: .5em;
+}
+
+/*---------------------------------------
+ * ner highlighting: brackets */
+.bracket { 
+  font-size: 125%;
+  font-weight: bold;
+  color: red;
+  display:none;
+}
+.bracket .label {
+ display:none;
+ vertical-align: baseline;
+ font-weight: normal;
+ font-size: 60%;
+ position: relative;
+ bottom: -.4em;
+}
+
+/*---------------------------------------
+ * word-links */
+a[id] {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+/*---------------------------------------
+ * ner highlighting: text */
+.manNE, .synNE, .mootNE, .unk {
+  /*font-weight: bold;*/
+  padding: 1px;
+  font-size: 110%;
+  line-height: 150%;
+}
+
+.unk {
+  border: 2px dotted #9900ff;
+}
+.manNE { 
+  /*border: 1px solid gray;*/
+  /*text-decoration: underline;*/
+  background-color: #ffff00;
+  font-weight: bold;
+  font-style: italic;
+}
+.mootNE { 
+  /*background-color: #e0e0e0;*/
+  border: 2px solid #0000ff;
+}
+.synNE { 
+  /*border: 1px solid blue;*/
+  font-weight: bold;
+  background-color: #ffcccc;
+}
+
+.manNE.synNE { 
+  background-color: #66ff66;
+}
+
+
+/*---------------------------------------
+ * NE subclasses */
+.neSub { 
+  border: 1px solid gray;
+  font-size: 80%;
+  font-family: monospace;
+  padding: 1px;
+  margin: 0px;
+  vertical-align: sub;
+}
+
+
+/*---------------------------------------
+ * legend */
+table.legend { 
+  border-collapse: collapse;
+  border: 4px solid #e8e8e8;
+  background-color: #ffffff;
+  text-align: left;
+  position: fixed;
+  top: 10px;
+  right: 8px;
+}
+table.legend th.bold {
+  text-align: center;
+  /*background-color:#000099; color:#ffffff;*/
+  background-color:#e8e8e8; color:#000099;
+  font-size: 120%;
+}
+table.legend tr, table.legend td, table.legend th {
+  border: none;
+  padding: 2px;
+}
+
+/*---------------------------------------
+ * stats */
+
+table.nerstats { 
+  margin: 5px;
+  margin-left: 10px;
+  border-collapse: collapse;
+  border: 1px solid gray;
+  text-align: left;
+  background-color: #ffffff;
+}
+table.nerstats th, table.nerstats td { 
+  border: 1px solid gray;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+table.nerstats th { 
+  text-align: left;
+  font-weight: bold;
+  background-color: #000099;
+  color: #ffffff;
+}
+table.nerstats td {
+  text-align: right;
+}

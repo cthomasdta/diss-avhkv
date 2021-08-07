@@ -1,0 +1,49 @@
+/* -*- Mode: Javascript; coding: utf-8 -*- */
+
+viewopts = ["Original","Normalized"];
+viewmode = 0;
+
+function tglTextView() {
+  var w0,wt,wm,w1;
+
+  $("span[id^='w']").each(function() {
+      w0 = $(this).text();
+      wt = $(this).attr('title');
+      wm = wt.match(/^CAB=(\S*)(?:; |$)/);
+      if (wm != null) {
+	  w1 = wm[1];
+      } else {
+	  w1 = '(null)';
+      }
+      $(this).text( w1 );
+      $(this).attr('title', "CAB="+w0 + wt.substr(4+w1.length));
+  });
+
+  //-- update global display
+  $("#tglTextViewBtn").text("[View "+viewopts[viewmode]+"]");
+  viewmode = (viewmode + 1) % 2;
+}
+
+var subopts = ["Hide Subclasses","View Subclasses"];
+var submode = 0;
+var subsInitialized = false;
+function tglSubView() {
+    var wspan, cls;
+    var clsre  = /NER\-class=\(([^\)]*)\)/;
+    var trimre = /(?:moot\S+)|(?:\S+\-)/g;
+
+    if (!subsInitialized) {
+	$("span.synNE[title]").add("span.manNE[title]").each(function() {
+	    cls = $(this).attr("title").match(clsre)[1].replace(trimre,"").trim();
+	    $(this).after("<span style=\"display:none\" class=\"neSub\">"+cls+"</span>");
+	});
+	subsInitialized = true;
+    }
+
+    //-- toggle visibility
+    $(".neSub").toggle();
+
+    //-- update global display
+    $("#tglSubsBtn").text("["+subopts[submode]+"]");
+    submode = (submode + 1) % 2;
+}
