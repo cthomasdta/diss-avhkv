@@ -8,7 +8,7 @@
 186 (11% L, 2% R)	186 (11%) L; 186 (2%) R	[Side-by-Side](SBS.humboldt.nn_msger.11.html)	nn_msgermqu2124_1827_3.norm.html	humboldt_ursachen_1830.TEI-P5.xml.raw.txt
 
 674 (26% L, 11% R)	674 (26%) L; 674 (11%) R	[Side-by-Side](SBS.1827-Ueb.nn_msger.12.html)	nn_msgermqu2124_1827_7.norm.html	1827-Ueber_die_Hauptursachen-1.xml.raw.txt
-686 (26% L, 9% R)	686 (26%) L; 686 (9%) R	[Side-by-Side](SBS.1827-Ueb.nn_msger.13.html)	nn_msgermqu2124_1827_7.norm.html	humboldt_ursachen_1830.TEI-P5.xml.raw.txt
+686 (26% L, 9% R)	686 (26%) L; 686 (9%) R	[Side-by-Side](SBS.humboldt.nn_msger.13.html)	nn_msgermqu2124_1827_7.norm.html	humboldt_ursachen_1830.TEI-P5.xml.raw.txt
 
 252 (10% L, 4% R)	252 (10%) L; 252 (4%) R	[Side-by-Side](SBS.1827-Ueb.nn_msger.14.html)	nn_msgermqu2124_1827_8.norm.html	1827-Ueber_die_Hauptursachen-1.xml.raw.txt
 261 (10% L, 3% R)	261 (10%) L; 261 (3%) R	[Side-by-Side](SBS.humboldt.nn_msger.15.html)	nn_msgermqu2124_1827_8.norm.html	humboldt_ursachen_1830.TEI-P5.xml.raw.txt
