@@ -15,20 +15,17 @@
 
 ## Humboldt 1827/1830 in Universität: 38., 47., 48., 50. und 52. Vorlesung:
 
-702 (25% L, 12% R)	702 (25%) L; 702 (12%) R	Side-by-Side	nn_oktavgfeo79_1828_38.norm.html	1827-Ueber_die_Hauptursachen-1.xml.raw.txt
-700 (25% L, 9% R)	700 (25%) L; 700 (9%) R	Side-by-Side	nn_oktavgfeo79_1828_38.norm.html	humboldt_ursachen_1830.TEI-P5.xml.raw.txt
+702 (25% L, 12% R)	702 (25%) L; 702 (12%) R	[Side-by-Side](SBS.1827-Ueb.nn_oktav.209.html)	nn_oktavgfeo79_1828_38.norm.html	1827-Ueber_die_Hauptursachen-1.xml.raw.txt
+700 (25% L, 9% R)	700 (25%) L; 700 (9%) R	[Side-by-Side](SBS.humboldt.nn_oktav.210.html)	nn_oktavgfeo79_1828_38.norm.html	humboldt_ursachen_1830.TEI-P5.xml.raw.txt
 
-480 (21% L, 8% R)	480 (21%) L; 480 (8%) R	Side-by-Side	nn_oktavgfeo79_1828_48.norm.html	1827-Ueber_die_Hauptursachen-1.xml.raw.txt
-491 (21% L, 6% R)	491 (21%) L; 491 (6%) R	Side-by-Side	nn_oktavgfeo79_1828_48.norm.html	humboldt_ursachen_1830.TEI-P5.xml.raw.txt
+480 (21% L, 8% R)	480 (21%) L; 480 (8%) R	[Side-by-Side](SBS.1827-Ueb.nn_oktav.260.html)	nn_oktavgfeo79_1828_48.norm.html	1827-Ueber_die_Hauptursachen-1.xml.raw.txt
+491 (21% L, 6% R)	491 (21%) L; 491 (6%) R	[Side-by-Side](SBS.humboldt.nn_oktav.261.html)	nn_oktavgfeo79_1828_48.norm.html	humboldt_ursachen_1830.TEI-P5.xml.raw.txt
 
-206 (10% L, 3% R)	206 (10%) L; 206 (3%) R	Side-by-Side	nn_oktavgfeo79_1828_50.norm.html	1827-Ueber_die_Hauptursachen-1.xml.raw.txt
-220 (11% L, 3% R)	220 (11%) L; 220 (3%) R	Side-by-Side	nn_oktavgfeo79_1828_50.norm.html	humboldt_ursachen_1830.TEI-P5.xml.raw.txt
+206 (10% L, 3% R)	206 (10%) L; 206 (3%) R	[Side-by-Side](SBS.1827-Ueb.nn_oktav.270.html)	nn_oktavgfeo79_1828_50.norm.html	1827-Ueber_die_Hauptursachen-1.xml.raw.txt
+220 (11% L, 3% R)	220 (11%) L; 220 (3%) R	[Side-by-Side](SBS.humboldt.nn_oktav.271.html)	nn_oktavgfeo79_1828_50.norm.html	humboldt_ursachen_1830.TEI-P5.xml.raw.txt
 
-236 (13% L, 4% R)	236 (13%) L; 236 (4%) R	Side-by-Side	nn_oktavgfeo79_1828_52.norm.html	1827-Ueber_die_Hauptursachen-1.xml.raw.txt
-243 (13% L, 3% R)	243 (13%) L; 243 (3%) R	Side-by-Side	nn_oktavgfeo79_1828_52.norm.html	humboldt_ursachen_1830.TEI-P5.xml.raw.txt
+236 (13% L, 4% R)	236 (13%) L; 236 (4%) R	[Side-by-Side](SBS.1827-Ueb.nn_oktav.286.html)	nn_oktavgfeo79_1828_52.norm.html	1827-Ueber_die_Hauptursachen-1.xml.raw.txt
+243 (13% L, 3% R)	243 (13%) L; 243 (3%) R	[Side-by-Side](SBS.humboldt.nn_oktav.287.html)	nn_oktavgfeo79_1828_52.norm.html	humboldt_ursachen_1830.TEI-P5.xml.raw.txt
 
-146 (6% L, 2% R)	146 (6%) L; 146 (2%) R	Side-by-Side	parthey_msgermqu1711_1828_47.norm.html	1827-Ueber_die_Hauptursachen-1.xml.raw.txt
-304 (13% L, 4% R)	304 (13%) L; 304 (4%) R	Side-by-Side	parthey_msgermqu1711_1828_47.norm.html	humboldt_ursachen_1830.TEI-P5.xml.raw.txt
-
-
-
+146 (6% L, 2% R)	146 (6%) L; 146 (2%) R	[Side-by-Side](SBS.1827-Ueb.parthey_.503.html)	parthey_msgermqu1711_1828_47.norm.html	1827-Ueber_die_Hauptursachen-1.xml.raw.txt
+304 (13% L, 4% R)	304 (13%) L; 304 (4%) R	[Side-by-Side](SBS.humboldt.parthey_.504.html)	parthey_msgermqu1711_1828_47.norm.html	humboldt_ursachen_1830.TEI-P5.xml.raw.txt
