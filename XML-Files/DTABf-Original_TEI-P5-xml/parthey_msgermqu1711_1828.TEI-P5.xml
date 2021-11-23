@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.deutschestextarchiv.de/basisformat_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">     <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -167,9 +167,6 @@ Hand des Archivars, der die Signatur und die Akzessionsnummer mit schwarzer Tint
 Einige Überarbeitungen, Kommentare und Unterstreichungen mit Bleistift, vermutlich von Gustav Parthey selbst.
 </handNote>
 </handDesc>
-<typeDesc>
-<p>Handschrift</p>
-</typeDesc>
 </physDesc>
 </msDesc>
 </sourceDesc>
@@ -262,7 +259,7 @@ und Flut; diese mögen zu den primitiven Formazionen, zu<lb/>
 den Uranfängen des Aggregatzustandes gehören. Ihre Ent-<lb/>
 fernung ist unermeslich: durch die Verfinsterungen der Jupi-<lb/>
 tertrabanten sind wir im Stande, die Geschwindigkeit des<lb/>
-Lichtes zu berechnen, welches von <persName resp="#SB" ref="http://www.deutschestextarchiv.de/kosmos/person#gnd-118790919 http://d-nb.info/gnd/118790919">Rösel</persName> <metamark>(?)</metamark> zuerst geschah.<note place="right" hand="#GP_ink2"><persName resp="#SB" ref="http://www.deutschestextarchiv.de/kosmos/person#gnd-118790919 http://d-nb.info/gnd/118790919">Olaf Römer</persName>, ein Däne<lb/>
+    Lichtes zu berechnen, welches von <persName resp="#SB" ref="http://www.deutschestextarchiv.de/kosmos/person#gnd-118790919 http://d-nb.info/gnd/118790919">Rösel</persName> <metamark>(?)</metamark> zuerst geschah.<note place="right" hand="#GP_ink2"><persName resp="#SB" ref="http://www.deutschestextarchiv.de/kosmos/person#gnd-118790919 http://d-nb.info/gnd/118790919">Ol<unclear reason="illegible" cert="high" resp="#CT">o</unclear>f Römer</persName>, ein Däne<lb/>
 1676 mit dem ältern<lb/>
 <persName resp="#SB" ref="http://www.deutschestextarchiv.de/kosmos/person#gnd-119408007 http://d-nb.info/gnd/119408007">Caſsini</persName> zu Paris —<lb/>
 </note><lb/>
