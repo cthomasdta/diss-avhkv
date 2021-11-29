@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.deutschestextarchiv.de/basisformat_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">     <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -170,9 +170,6 @@ Hand des Archivars, der die Akzessionsnummer mit schwarzer Tinte verzeichnet hat
 Hand des Archivars, der die Signaturen mit Bleistift verzeichnet hat.
 </handNote>
 </handDesc>
-<typeDesc>
-<p>Handschrift</p>
-</typeDesc>
 </physDesc>
 </msDesc>
 </sourceDesc>
@@ -5563,7 +5560,7 @@ roth gefärbtem Gl<subst><del rendition="#s">ä</del><add place="across">a</add>
 wohl aber im violetten. Auch die bolog<unclear reason="illegible" cert="high" resp="#BF">nieſe<supplied reason="damage" resp="#BF">r</supplied></unclear><lb/>
 Lichtſteine leuchten ſogleich im <choice><abbr>violett￼</abbr><expan resp="#BF">violetten</expan></choice> Strahl,<lb/>
 während ſie im <subst><del rendition="#ow">violetten</del><add place="across">rothen</add></subst> verlöſchen. Die<lb/>
-Verſuche von <hi rendition="#aq"><persName resp="#SB" ref="http://www.deutschestextarchiv.de/kosmos/person#gnd-101697406 http://d-nb.info/gnd/101697406">Mo<subst><del rendition="#ow"><gap reason="illegible" unit="chars" quantity="1"/></del><add place="across">r</add></subst>i<subst><del rendition="#ow"><unclear reason="covered" cert="low" resp="#BF">e</unclear></del><add place="across">t</add></subst>imi</persName></hi> u. <unclear reason="illegible" resp="#textloop">Mshtr</unclear>. <persName resp="#BF" ref="http://www.deutschestextarchiv.de/kosmos/person#gnd-117476560 http://d-nb.info/gnd/117476560">Som̃erville</persName><lb/>
+Verſuche von <hi rendition="#aq"><persName resp="#SB" ref="http://www.deutschestextarchiv.de/kosmos/person#gnd-101697406 http://d-nb.info/gnd/101697406">Mo<subst><del rendition="#ow"><gap reason="illegible" unit="chars" quantity="1"/></del><add place="across">r</add></subst>i<subst><del rendition="#ow"><unclear reason="covered" cert="low" resp="#BF">e</unclear></del><add place="across">t</add></subst>imi</persName></hi> u. Ms<unclear reason="illegible" cert="high" resp="#CT">s</unclear>tr. <persName resp="#BF" ref="http://www.deutschestextarchiv.de/kosmos/person#gnd-117476560 http://d-nb.info/gnd/117476560">Som̃erville</persName><lb/>
 <note place="left"><hi rendition="#u">Violetten<lb/>
 Strahl magne-<lb/>
 tiſirt Eiſen.</hi><lb/>
