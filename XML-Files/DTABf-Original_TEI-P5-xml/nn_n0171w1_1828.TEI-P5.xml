@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.deutschestextarchiv.de/basisformat_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.deutschestextarchiv.de/basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">     <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -178,9 +179,6 @@ Hand des Archivars, der eine veraltete Signatur mit Bleistift verzeichnet hat.
 Hand eines weiteren Archivars, der die Akzessionsnummer (?) mit Bleistift verzeichnet hat.
 </handNote>
 </handDesc>
-<typeDesc>
-<p>Handschrift</p>
-</typeDesc>
 </physDesc>
 </msDesc>
 </sourceDesc>

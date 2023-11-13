@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.deutschestextarchiv.de/basisformat_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.deutschestextarchiv.de/basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">     <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -160,9 +161,6 @@ Zwei Überarbeitungen, braune Tinte, lateinische Schrift, unbekannter Schreiber.
 Hand des Archivars, der die Akzessionsnummer mit Bleistift verzeichnet hat.
 </handNote>
 </handDesc>
-<typeDesc>
-<p>Handschrift</p>
-</typeDesc>
 </physDesc>
 </msDesc>
 </sourceDesc>
@@ -623,7 +621,7 @@ me erhalten wird, wie dies aus <hi rendition="#aq"><persName ref="http://www.deu
 tismus, der durch ungleiche Erwärmung hervorgerufen wird, und aus ander-<lb/>
 weiten Beobachtungen der <hi rendition="#aq">Miss <persName ref="http://www.deutschestextarchiv.de/kosmos/person#gnd-117476560 http://d-nb.info/gnd/117476560">Sommerville</persName></hi> über die Sonnenstrahlen her-<lb/>
 vorgeht.)</p><lb/>
-</div>              <div type="session" n="3"><head type="leftMargin">3<hi rendition="#sup #u">te</hi> <choice><abbr>Vorl.</abbr><expan resp="#CT">Vorlesung</expan></choice> <supplied resp="#CT">(<ref target="http://www.deutschestextarchiv.de/kosmos/gliederung"><date when="1827-12-20">20. Dezember 1827</date></ref>)</supplied></head><lb/>
+</div>              <div type="session" n="3"><head place="leftMargin">3<hi rendition="#sup #u">te</hi> <choice><abbr>Vorl.</abbr><expan resp="#CT">Vorlesung</expan></choice> <supplied resp="#CT">(<ref target="http://www.deutschestextarchiv.de/kosmos/gliederung"><date when="1827-12-20">20. Dezember 1827</date></ref>)</supplied></head><lb/>
 <p>Gleichsam die Skizze eines großen Bildes im Umrisse gebend, das<lb/>
 nachmals in seinen einzelnen Theilen weiter ausgeführt werden wird, will<lb/>
 ich im Allgemeinen die Abtheilungen bezeichnen, welche wir durchzugehen<lb/>
