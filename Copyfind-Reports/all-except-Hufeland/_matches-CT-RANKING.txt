@@ -1,4 +1,4 @@
-File L	File R	Perfect Match #	Perfect Match L	Perfect Match R	(L%+R%)/2	Overall Match	cf. Diss Thomas 2021
+File L	File R	Perfect Match #	Perfect Match L	Perfect Match R	(L%+R%)/2	Overall Match	cf. Diss Thomas 2023
 parthey_msgermqu1711_1828_34.norm.html	nn_msgermqu2345_1827_34.norm.html	2593	85%	89%	87%	"2593 (85%) L; 2593 (89%) R"	S. 378 (Grafik), S. 379
 parthey_msgermqu1711_1828_38.norm.html	nn_msgermqu2345_1827_38.norm.html	2334	85%	87%	86%	"2334 (85%) L; 2334 (87%) R"	S. 378 (Grafik), S. 379
 parthey_msgermqu1711_1828_25.norm.html	nn_msgermqu2345_1827_25.norm.html	1796	85%	87%	86%	"1796 (85%) L; 1796 (87%) R"	S. 378 (Grafik), S. 379

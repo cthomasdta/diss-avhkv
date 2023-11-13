@@ -1,6 +1,6 @@
 # Results
 
-> vgl. Diss. Thomas 2021 S. 160, Anm. 104, sowie S. 387‒389. 
+> vgl. Diss. [Thomas 2023](https://doi.org/10.18452/27521), S. 160, Anm. 104, sowie S. 387‒389. 
 
 ## Humboldt 1827/1830 in Sing-Akademie: 3., 7. und 8. Vorlesung:
 
