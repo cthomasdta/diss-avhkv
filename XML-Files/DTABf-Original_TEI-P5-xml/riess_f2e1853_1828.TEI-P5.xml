@@ -226,9 +226,9 @@ Weitere, veraltete Signatur, Bleistift, unbekannter Schreiber.
 <pb facs="#f0001"/>
 <pb facs="#f0002"/>
 <figure type="stamp"/><lb/>
-<note resp="#SBB" hand="#pencil"><hi rendition="#aq">F2e<hi rendition="#sup">x</hi> 1853</hi></note>
+<note place="mBottom" resp="#SBB" hand="#pencil"><hi rendition="#aq">F2e<hi rendition="#sup">x</hi> 1853</hi></note>
 <pb facs="#f0003"/>
-<note hand="#pencil2"><hi rendition="#aq">Nr. 30</hi></note>
+<note place="right" hand="#pencil2"><hi rendition="#aq">Nr. 30</hi></note>
 <pb facs="#f0004"/>
 <pb facs="#f0005"/>
 <titlePage type="main"><docTitle><titlePart type="main"><hi rendition="#c">Physikalische Geographie<lb/>
@@ -2677,8 +2677,8 @@ wirk erkältend, nicht duh ihr Schattn blos,<lb/>
 sonder duh ihre groß Wärmstralung an <choice><abbr>ihm</abbr><expan resp="#TK">ihrem</expan></choice><lb/>
 <hi rendition="#aq">Apperdiculär</hi>system (Äste, Blätter). Bei reiner<lb/>
 Luft ist die Soñenwärme größer als auf d Stralung<lb/>
-bei Nacht. D südlich Theil v Pern hat 5 Mnt<lb/>
-hinduh e so <subst><del rendition="#s">trübe</del><del rendition="#s"><add place="superlinear">khage@</add></del></subst> Luft, daß s Sõne u Mond<lb/>
+bei Nacht. D südlich Theil v Peru hat 5 Mnt<lb/>
+hinduh e so <del rendition="#s"><subst><del rendition="#s">trübe</del><add place="superlinear">klare</add></subst></del> Luft, daß <del rendition="#s">s</del> Sõne u Mond<lb/>
 mit nacktn Auge geseh werd köñ.</p></div></div></div></div><lb/>
 <div type="session" n="48"><head><supplied resp="#BF">48. Vorlesung, <ref target="http://www.deutschestextarchiv.de/kosmos/gliederung"><date when="1828-04-02">2. April 1828</date></ref></supplied></head><lb/>
 <div n="1"><div n="2"><div n="3"><p>D Winde sd entwedr als bloße Bewegung ode<lb/>
