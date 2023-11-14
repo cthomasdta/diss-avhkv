@@ -236,13 +236,13 @@ Transkription wurde korrigiert.
 </teiHeader>
 <text><front>
 <pb facs="#f0001" n="[I]"/>
-<titlePage type="main"><docTitle><titlePart resp="#pencil2" type="main">Wykłady Humboldta<lb/>
+<titlePage type="main"><docTitle><titlePart rendition="#pencil2" type="main">Wykłady Humboldta<lb/>
 na uniwersytecie<lb/>
 Berlińskim</titlePart></docTitle>   <lb/>
-<byline resp="#pencil2">notaty prelekcyj tych<lb/>
+<byline rendition="#pencil2">notaty prelekcyj tych<lb/>
 po uczniu Jego<lb/>
 <docAuthor>Karolu Libelcie</docAuthor></byline><lb/>
-<titlePart resp="#pencil3" type="desc">[zapiska ręką ś.p. Józefa Łepkowskiego, prof.<lb/>
+<titlePart rendition="#pencil3" type="desc">[zapiska ręką ś.p. Józefa Łepkowskiego, prof.<lb/>
 Uniw. Jagiell., zięcia Libelta.<lb/>
 J Korzeniowski].</titlePart><lb/>
 <figure type="stamp"/><lb/>
