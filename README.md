@@ -15,7 +15,7 @@
 
 🚧 Work in Progress. Erstes Release der Forschungsdaten geplant mit Veröffentlichung der Promotionsschrift.
 
-## Inhaltsübersicht dieses Repositoriums
+## Kommentierte Inhaltsübersicht dieses Repositoriums
 
 * [Copyfind-Reports](https://github.com/cthomasdta/diss-avhkv/tree/master/Copyfind-Reports) <br /> – versammelt Ergebnisse der Korpusanalyse mit dem Tool *WCopyfind*, mit dem Instanzen von "Text Re-Use" und somit potentielle Abschreibeverhältnisse innerhalb des Korpus ermittelt wurden. Grundlage der Vergleiche sind die stundenweise gesplitteten und teilautomatisch normalisierten XML-Dokumente aus dem Ordner [../sessions](https://github.com/cthomasdta/diss-avhkv/tree/master/XML-Files/sessions), jeweils die Datei mit der Endung `.norm.xml`, die per XSLT-Skript in eine HTML-Fassung umgewandelt und an *WCopyfind* übergeben wurden. Siehe dazu Diss. [Thomas 2023](https://doi.org/10.18452/27521), S. 374–392.
    * [all-exc-Hufeland_vs_Humboldt-1827-1830](https://github.com/cthomasdta/diss-avhkv/tree/master/Copyfind-Reports/all-exc-Hufeland_vs_Humboldt-1827-1830) <br /> – Vergleich aller Dateien miteinander und mit Humboldts Aufsatz [„Über die Haupt-Ursachen der Temperatur-Verschiedenheit auf dem Erdkörper“ (Humboldt 1827)](https://www.deutschestextarchiv.de/humboldt_ursachen_1830), unter Ausschluss der Dateien aus aus [../XML-Files/sessions/hufeland_privatbesitz_1829](https://github.com/cthomasdta/diss-avhkv/tree/master/XML-Files/sessions/hufeland_privatbesitz_1829) (siehe dazu den folgenden Punkt).
