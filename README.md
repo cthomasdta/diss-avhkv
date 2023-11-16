@@ -1,6 +1,8 @@
 # Forschungsdaten zur Promotionsschrift 
 
-> Christian Thomas: *„… ein Gemisch von Gehörtem und selbst Zugeseztem“. Nachschriften der ‚Kosmos-Vorträge‘ Alexander von Humboldts: Dokumentation, Kontextualisierung und exemplarische Analysen.* Dissertation, Humboldt-Universität zu Berlin: edoc-Server, Version 1.0 vom 1. November 2023. DOI: [https://doi.org/10.18452/27521](https://doi.org/10.18452/27521).
+**Christian Thomas: *„… ein Gemisch von Gehörtem und selbst Zugeseztem“. Nachschriften der ‚Kosmos-Vorträge‘ Alexander von Humboldts: Dokumentation, Kontextualisierung und exemplarische Analysen.* Dissertation, Humboldt-Universität zu Berlin: edoc-Server, Version 1.0 vom 1. November 2023. DOI: [https://doi.org/10.18452/27521](https://doi.org/10.18452/27521).**
+
+📬 Eine kommentierbare Version des PDF dieser Publikation steht hier bereit: [https://via.hypothes.is/https://edoc.hu-berlin.de/bitstream/handle/18452/28342/dissertation_thomas_christian.pdf](https://via.hypothes.is/https://edoc.hu-berlin.de/bitstream/handle/18452/28342/dissertation_thomas_christian.pdf). <br /> Kommentare und Fehlermeldungen werden auf diesem Wege (aber auch per Mail an [thomas@bbaw.de](mailto:thomas@bbaw.de) oder Issues in diesem Repository) jederzeit dankbar entgegengenommen.
 
 * Lizenz des Textes: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 * Lizenz der in diesem Repository bereitgestellten Forschungsdaten: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)
