@@ -1,10 +1,5 @@
 # Abbildungen in allen Nachschriften und Abschriften
 
-🚧 Work in Progress. Die _Texte_ und Quellenangaben aus der Übersicht können gern (ohne Gewähr der Vollständigkeit und Korrektheit) unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) nachgenutzt werden. <br/>
-❗ (c) zu den Rechtegebern und Lizenzen der verwendeten _Abbildungen_ sind jedoch die Angaben in den als Quelle(n) verlinkten Dokumenten zu beachten. Die Rechte verbleiben in jedem Fall bei den bestandshaltenden Institutionen.
-
-----------
-
 Kontext: Das Thema der Abbildungen in allen Nachschriften und Abschriften konnte ich in meiner Dissertation [Thomas 2023](https://doi.org/10.18452/27521) nicht mehr behandeln, siehe dazu ebd. S. 137:
 > \[…] bleiben einige für den Zusammenhang dieser Arbeit interessante Punkte zur weiteren Erforschung offen. Dazu
 gehört beispielsweise die Frage, ob Knorr für Humboldts Vorträge Anschauungsmittel wie
@@ -20,11 +15,16 @@ Fundus bereitstehenden Anschauungsmittel vorhanden sind – wird stützen müsse
 
 ----------
 
+🚧 Work in Progress. Die _Texte_ und Quellenangaben aus der folgenden Übersicht können gern (ohne Gewähr der Vollständigkeit und Korrektheit) unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) nachgenutzt werden. <br/>
+❗ (c) zu den Rechtegebern und Lizenzen der verwendeten _Abbildungen_ sind jedoch die Angaben in den als Quelle(n) verlinkten Dokumenten zu beachten. Die Rechte verbleiben in jedem Fall bei den bestandshaltenden Institutionen.
+
+----------
+
 Hier zunächst die Übersicht, in welchen Nachschriften und Abschriften der Kosmos-Vorträge Abbildungen vorkommen. 
 Insgesamt sind 31 Abbildungen im Korpus der Nachschriften enthalten; eine stammt aus der Abschrift einer Nachschrift aus der Sing-Akademie, die übrigen 30 verteilen sich sehr ungleich über die Hefte, die zum Universitätszyklus überliefert sind. 19 verschiedene Abbildungen lassen sich ausmachen, von denen 11 nur ein Mal, die übrigen 8 jedoch in 2-, 3- bzw. 5-facher Ausführung vorkommen.
 
 ## nur einmal vorkommende Abbildungen 
-(Durchnummeriert in der Reihenfolge der Vorlesungsstunden; zur Gliederung beider Zyklen der Kosmos-Vortäge vgl. [Thomas 2023](https://doi.org/10.18452/27521), S. 189)
+Fortlaufend durchnummeriert zur besseren Referenzierbarkeit; aufgelistet in der Reihenfolge der Vorlesungsstunden (zur Gliederung beider Zyklen der Kosmos-Vortäge vgl. [Thomas 2023](https://doi.org/10.18452/27521), S. 189)
 
 |Nr.|Beschreibung|Abbildung|
 |---|---|---|
@@ -34,7 +34,7 @@ Insgesamt sind 31 Abbildungen im Korpus der Nachschriften enthalten; eine stammt
 | 4) | **Skizze zu einer Messung, bestehend aus „zwei Operationen, einer astronomischen am Him̅el u\[n]d einer trigonomet\[rischen] auf d\[er] Erde“** <br/> * Kontext: Universität, 26. Vorlesung („Astronomie“ bzw. „Himmelsräume“) <br/> * Quelle: [libelt_hs6623ii_1828/26](https://www.deutschestextarchiv.de/libelt_hs6623ii_1828/26) (Karol Libelts Nachschrift zum Zyklus in der Universität) | ![image](https://github.com/cthomasdta/diss-avhkv/assets/13750091/0ea41946-77d8-40a9-961d-f82272b3a288) |
 | 5) | **Skizze zur größten Höhe/Tiefe menschlicher Bauwerke über/unter der Erdoberfläche** <br/> * Kontext: Universität, 36. Vorlesung („Zentral-“ und „Reihen-vulkane“; „Bemerkungen über die äussere Erdrinde“; „Geognosie“) <br/> * Quelle: [parthey_msgermqu1711_1828/426](https://www.deutschestextarchiv.de/parthey_msgermqu1711_1828/426) (Gustav Partheys Nachschrift zum Zyklus in der Universität) | ![image](https://github.com/cthomasdta/diss-avhkv/assets/13750091/2e698262-0f6c-4ac9-b5ec-41aa9ec6074b) |
 | 6) | **Skizze zur Illustration der ‚prismatischen Gestalt‘ der „Andeskette“** <br/> * Kontext: Universität, 38. Vorlesung („Gebirgsarten, Typen der Formationen“) <br/> * Quelle: [libelt_hs6623ii_1828/110](https://www.deutschestextarchiv.de/libelt_hs6623ii_1828/110) (Karol Libelts Nachschrift zum Zyklus in der Universität) | ![image](https://github.com/cthomasdta/diss-avhkv/assets/13750091/2f37c175-ea8f-4c05-b0b4-0b9f5f0096fa) |
-| 7) | **Skizze zum Vergleich der Küstenlinien Nord- und Südamerikas vs. Europas und Afrikas** <br/> * Kontext: Universität, 39. Vorlesung („Gestalt der Erdoberfläche, Gliederung der Continente, Hebung auf Spalten“) <br/> * Quelle: [parthey_msgermqu1711_1828/467](https://www.deutschestextarchiv.de/parthey_msgermqu1711_1828/467)(Gustav Partheys Nachschrift zum Zyklus in der Universität)  | ![image](https://github.com/cthomasdta/diss-avhkv/assets/13750091/b95eeedc-2640-4eb3-a6c7-3a14c8d7f827) |
+| 7) | **Skizze zum Vergleich der Küstenlinien Nord- und Südamerikas vs. Europas und Afrikas** <br/> * Kontext: Universität, 39. Vorlesung („Gestalt der Erdoberfläche, Gliederung der Continente, Hebung auf Spalten“) <br/> * Quelle: [parthey_msgermqu1711_1828/467](https://www.deutschestextarchiv.de/parthey_msgermqu1711_1828/467) (Gustav Partheys Nachschrift zum Zyklus in der Universität)  | ![image](https://github.com/cthomasdta/diss-avhkv/assets/13750091/b95eeedc-2640-4eb3-a6c7-3a14c8d7f827) |
 | 8) | **Skizze zur konvexen/konkaven Form von Wellen auf dem offenen Meer** <br/> * Kontext: Universität, 41. Vorlesung („tropfbar-flüssige Umhüllung: Meer“) <br/> * Quelle: [libelt_hs6623ii_1828/145](https://www.deutschestextarchiv.de/libelt_hs6623ii_1828/145) (Karol Libelts Nachschrift zum Zyklus in der Universität) | ![image](https://github.com/cthomasdta/diss-avhkv/assets/13750091/52690ee0-fc53-4194-a04e-1d3e0c8b9cc5) |
 | 9) | **Skizze zu Sonnenstrahlen, die von der ‚Polygonalfigur‘ einer Bergfläche reflektiert werden** <br/> * Kontext: Universität, 47. Vorlesung („elastisch-flüssige Umhüllung: Atmosphäre, Wärmevertheilung“) <br/> * Quelle: [libelt_hs6623ii_1828/206](https://www.deutschestextarchiv.de/libelt_hs6623ii_1828/206) (Karol Libelts Nachschrift zum Zyklus in der Universität) | ![image](https://github.com/cthomasdta/diss-avhkv/assets/13750091/0d461f43-5253-4359-8706-628093b38978) |
 | 10) | **Bergprofil** <br/> * Kontext: Universität, tbd (Abbildung ist am Ende des Manuskripts eingebunden) <br/> * Quelle: [nn_oktavgfeo79_1828/603](https://www.deutschestextarchiv.de/nn_oktavgfeo79_1828/603) (anonym verfasste Nachschrift zum Zyklus in der Universität) | ![image](https://github.com/cthomasdta/diss-avhkv/assets/13750091/2b5dda0f-eaf1-4b20-814b-e33ba3129bbd) |
@@ -61,7 +61,7 @@ Insgesamt sind 31 Abbildungen im Korpus der Nachschriften enthalten; eine stammt
    * Quelle: [libelt_hs6623ii_1828/110](https://www.deutschestextarchiv.de/libelt_hs6623ii_1828/110) (Karol Libelts Nachschrift zum Zyklus in der Universität)
 * **7) Skizze zum Vergleich der Küstenlinien Nord- und Südamerikas vs. Europas und Afrikas**
    * Kontext: Universität, 39. Vorlesung („Gestalt der Erdoberfläche, Gliederung der Continente, Hebung auf Spalten“)
-   * Quelle: [parthey_msgermqu1711_1828/467](https://www.deutschestextarchiv.de/parthey_msgermqu1711_1828/467)(Gustav Partheys Nachschrift zum Zyklus in der Universität) 
+   * Quelle: [parthey_msgermqu1711_1828/467](https://www.deutschestextarchiv.de/parthey_msgermqu1711_1828/467) (Gustav Partheys Nachschrift zum Zyklus in der Universität) 
 * **8) Skizze zur konvexen/konkaven Form von Wellen auf dem offenen Meer**
    * Kontext: Universität, 41. Vorlesung („tropfbar-flüssige Umhüllung: Meer“)
    * Quelle: [libelt_hs6623ii_1828/145](https://www.deutschestextarchiv.de/libelt_hs6623ii_1828/145) (Karol Libelts Nachschrift zum Zyklus in der Universität)
@@ -77,7 +77,7 @@ Insgesamt sind 31 Abbildungen im Korpus der Nachschriften enthalten; eine stammt
 -->
 
 ## mehrfach vorkommende Abbildungen 
-(in der Reihenfolge der Vorlesungsstunden; zur Gliederung beider Zyklen der Kosmos-Vortäge vgl. [Thomas 2023](https://doi.org/10.18452/27521), S. 189)
+Fortlaufend durchnummeriert zur besseren Referenzierbarkeit; aufgelistet in der Reihenfolge der Vorlesungsstunden (zur Gliederung beider Zyklen der Kosmos-Vortäge vgl. [Thomas 2023](https://doi.org/10.18452/27521), S. 189)
 
 |Nr.|Beschreibung|Abbildungen|
 |---|---|---|
