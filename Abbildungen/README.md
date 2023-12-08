@@ -17,10 +17,11 @@ Fundus bereitstehenden Anschauungsmittel vorhanden sind – wird stützen müsse
 
 ----------
 
-Hier zunächst die Übersicht, in welchen Nachschriften und Abschriften der Kosmos-Vorträge Abbildungen vorkommen.
+Hier zunächst die Übersicht, in welchen Nachschriften und Abschriften der Kosmos-Vorträge Abbildungen vorkommen. 
+Insgesamt sind 31 Abbildungen im Korpus der Nachschriften enthalten; eine stammt aus der Abschrift einer Nachschrift aus der Sing-Akademie, die übrigen 30 verteilen sich sehr ungleich über die Hefte, die zum Universitätszyklus überliefert sind..
 
 ## nur einmal vorkommende Abbildungen 
-(in der Reihenfolge der Vorlesungsstunden; zur Gliederung beider Zyklen der Kosmos-Vortäge vgl. [Thomas 2023](https://doi.org/10.18452/27521), S. 189)
+(Durchnummeriert in der Reihenfolge der Vorlesungsstunden; zur Gliederung beider Zyklen der Kosmos-Vortäge vgl. [Thomas 2023](https://doi.org/10.18452/27521), S. 189)
 
 * **1) Skizze zur Berechnung der Entfernung der Fixsterne**
    * Kontext: Universität, 16. Vorlesung („Astronomie“ bzw. „Himmelsräume“)
