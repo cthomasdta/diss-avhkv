@@ -50,10 +50,10 @@ Hier zunächst die Übersicht, in welchen Nachschriften und Abschriften der Kosm
    * Kontext: Universität, 47. Vorlesung („elastisch-flüssige Umhüllung: Atmosphäre, Wärmevertheilung“)
    * [libelt_hs6623ii_1828/206](https://www.deutschestextarchiv.de/libelt_hs6623ii_1828/206) (Karol Libelts Nachschrift zum Zyklus in der Universität)
 * **10) Bergprofil**
-   * Kontext: tbd (Abbildung ist am Ende des Manuskripts eingebunden)
+   * Kontext: Universität, tbd (Abbildung ist am Ende des Manuskripts eingebunden)
    * [nn_oktavgfeo79_1828/603](https://www.deutschestextarchiv.de/nn_oktavgfeo79_1828/603) (anonym verfasste Nachschrift zum Zyklus in der Universität)
 * **11) menschliches Profil/Gesichtslinie**
-   * Kontext: tbd
+   * Kontext: Sing-Akademie, 10. Vorlesung („Über die Menschenracen“, „Gesichtslinie“ nach Petrus Camper)
    * [hufeland_privatbesitz_1829/88](https://www.deutschestextarchiv.de/hufeland_privatbesitz_1829/88) (Abschrift Otto Hufelands zum Zyklus in der Sing-Akademie)
 
 ## mehrfach vorkommende Abbildungen 
