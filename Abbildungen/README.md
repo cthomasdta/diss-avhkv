@@ -88,10 +88,10 @@ Hier zunächst die Übersicht, in welchen Nachschriften und Abschriften der Kosm
    * [parthey_msgermqu1711_1828/406](https://www.deutschestextarchiv.de/parthey_msgermqu1711_1828/406) (Gustav Partheys Nachschrift zum Zyklus in der Universität)
    * [nn_msgermqu2345_1827/179](https://www.deutschestextarchiv.de/nn_msgermqu2345_1827/179) (anonym verfasste Nachschrift zum Zyklus in der Universität)
 * **19) Isothermenkarte, „Carte des lignes Isothermes par M. A. de Humboldt“**
-   * Kontext: Universität, tbd
+   * Kontext: Universität, 48. Vorlesung („elastisch-flüssige Umhüllung: Atmosphäre, Wärmevertheilung“)
    * [parthey_msgermqu1711_1828/607](https://www.deutschestextarchiv.de/parthey_msgermqu1711_1828/607) (Gustav Partheys Nachschrift zum Zyklus in der Universität)
    * [nn_msgermqu2345_1827/325](https://www.deutschestextarchiv.de/nn_msgermqu2345_1827/325) (anonym verfasste Nachschrift zum Zyklus in der Universität)
 * **20) Tabelle zur Pflanzengeographie, Geographische Verbreitung der Pflanzen** 
-   * Kontext: Universität, tbd
+   * Kontext: Universität, 57. Vorlesung („Geographie der Pflanzen“)
    * [parthey_msgermqu1711_1828/729](https://www.deutschestextarchiv.de/parthey_msgermqu1711_1828/729)
    * [nn_msgermqu2345_1827/329](https://www.deutschestextarchiv.de/nn_msgermqu2345_1827/329)
